@@ -1,0 +1,18 @@
+{
+    "version": "0.7.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/skyhook-io/radar/releases/download/v0.7.4/radar_v0.7.4_windows_amd64.zip",
+            "bin": [
+                "kubectl-radar.exe"
+            ],
+            "hash": "0ad0f68478d3c13cfb6ade9bc3c5a5a88aea83b12321ce305f9039b78b55d860"
+        }
+    },
+    "homepage": "https://github.com/skyhook-io/radar",
+    "license": "Apache-2.0",
+    "description": "Modern Kubernetes visibility — topology, traffic, and Helm management",
+    "post_install": [
+        "Write-Host 'Run: kubectl-radar or radar' -ForegroundColor Green"
+    ]
+}
