@@ -1,0 +1,21 @@
+{
+    "version": "0.9.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/skyhook-io/radar/releases/download/v0.9.0/radar-desktop_v0.9.0_windows_amd64.zip",
+            "bin": [
+                "Radar.exe"
+            ],
+            "shortcuts": [
+                ["Radar.exe", "Radar"]
+            ],
+            "hash": "2eaf6ddfc85577b8fff7257a00332e8044bbb2a04ce46ced5524fad6aa6e058c"
+        }
+    },
+    "homepage": "https://github.com/skyhook-io/radar",
+    "license": "Apache-2.0",
+    "description": "Radar Desktop — Kubernetes visibility with topology, traffic, and Helm management",
+    "post_install": [
+        "Write-Host 'Radar Desktop installed. Launch from Start Menu or run: radar-desktop' -ForegroundColor Green"
+    ]
+}
