@@ -1,12 +1,12 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skyhook-io/radar/releases/download/v1.1.1/radar_v1.1.1_windows_amd64.zip",
+            "url": "https://github.com/skyhook-io/radar/releases/download/v1.1.2/radar_v1.1.2_windows_amd64.zip",
             "bin": [
                 "kubectl-radar.exe"
             ],
-            "hash": "56a3cfb0c1da4a8333e56ca9e9cd538c383b561d5d0e69425b29fa043db7679b"
+            "hash": "bd0ace6f09e3e96f7b0c862e23adcfa23fcff30255c2d9c7e5532effb456dabc"
         }
     },
     "homepage": "https://github.com/skyhook-io/radar",
