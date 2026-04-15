@@ -1,0 +1,14 @@
+{
+    "version": "2.4.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/skyhook-io/skyhook-cli/releases/download/2.4.1/skyhook_v2.4.1_windows_amd64.zip",
+            "bin": [
+                "skyhook.exe"
+            ],
+            "hash": "48055f73fa28feef4d77b6c9ab94f1f446a438d1bba66a795530ffa9fde86d5c"
+        }
+    },
+    "homepage": "https://www.skyhook.io",
+    "description": "CLI for Skyhook."
+}
