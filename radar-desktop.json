@@ -1,15 +1,15 @@
 {
-    "version": "1.5.12",
+    "version": "1.5.13",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skyhook-io/radar/releases/download/v1.5.12/radar-desktop_v1.5.12_windows_amd64.zip",
+            "url": "https://github.com/skyhook-io/radar/releases/download/v1.5.13/radar-desktop_v1.5.13_windows_amd64.zip",
             "bin": [
                 "Radar.exe"
             ],
             "shortcuts": [
                 ["Radar.exe", "Radar"]
             ],
-            "hash": "b2becebac17f8bc650568bdc9119e9c5f024084e3236622457e3512f68db63c7"
+            "hash": "f75bea9054abc81446de3103319b855aa6bd15b1233f3e0da6c05c32e0ad2484"
         }
     },
     "homepage": "https://github.com/skyhook-io/radar",
