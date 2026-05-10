@@ -6,7 +6,7 @@
             "bin": [
                 "kubectl-radar.exe"
             ],
-            "hash": "a386a2dd5c60b52fce6211ec5fc1a8f19578f0c88e4abe1eac9524c0d076b66b"
+            "hash": "75372ac5b271a3a8eaea329360733597ed66a1fa7edc58d6e57836fbe2e5aa26"
         }
     },
     "homepage": "https://github.com/skyhook-io/radar",
