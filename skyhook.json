@@ -1,12 +1,12 @@
 {
-    "version": "2.4.3",
+    "version": "2.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skyhook-io/skyhook-cli/releases/download/2.4.3/skyhook_v2.4.3_windows_amd64.zip",
+            "url": "https://github.com/skyhook-io/skyhook-cli/releases/download/2.5.0/skyhook_v2.5.0_windows_amd64.zip",
             "bin": [
                 "skyhook.exe"
             ],
-            "hash": "25ba34553ec1f6fc078b499044690856978ce9fd3ddc5c2faf811665cfee48d1"
+            "hash": "ae48b6e029db1be6609e9cdb15323eb3d42c8ae24db3f485dba3075764dfb6ec"
         }
     },
     "homepage": "https://www.skyhook.io",
